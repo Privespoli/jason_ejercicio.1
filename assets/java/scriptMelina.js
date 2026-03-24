@@ -1,4 +1,3 @@
-
 const inventarioTienda = [
   {
     titulo: "FIFA 24",
